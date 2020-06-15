@@ -1,2 +1,2 @@
 # springBootWithJPARepository
-Project with SpringBoot using JPA Repository and 
+Project with SpringBoot using JPA Repository 
